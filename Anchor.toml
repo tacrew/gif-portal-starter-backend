@@ -1,0 +1,12 @@
+[programs.devnet]
+epic_solana_gif = "914vKswXzCLBvGHcJXaCcZ1soRVZMY7y7nCFTf3fozaW"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/tmurakami/.config/solana/id.json"
+
+[scripts]
+test = "node tests/myepicproject.js"
